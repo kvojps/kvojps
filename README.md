@@ -10,3 +10,5 @@
 - [Linkedin](www.linkedin.com/in/josé-ferreira-43a8071a1)
 - [Instagram](https://www.instagram.com/divers_tech/)
 
+* Nesse perfil tenho projetos voltados para python, java, javascript, html, css e Django.
+
