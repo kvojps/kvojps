@@ -7,7 +7,7 @@
 - 💬 Sempre busco aprender mais para conseguir mudar o mundo através do código.
 - 📫 Contatos:
 - Email: josebazjunior09@gmail.com
-- [Linkedin:] (www.linkedin.com/in/josé-ferreira-43a8071a1)
+- Linkedin: (www.linkedin.com/in/josé-ferreira-43a8071a1)
 - [Instagram](https://www.instagram.com/divers_tech/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
