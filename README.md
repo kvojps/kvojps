@@ -6,7 +6,7 @@
 - 🤔 Estou em busca da primeira oportunidade de emprego.
 - 💬 Sempre busco aprender mais para conseguir mudar o mundo através do código.
 ## 📫 Contatos:
-- [Linkedin](www.linkedin.com/in/josé-ferreira-43a8071a1)
+- [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ferreira-43a8071a1/)
 - [Instagram](https://www.instagram.com/divers_tech/)
 
 ### Nesse perfil tenho projetos voltados para python, java, javascript, html, css e Django.
