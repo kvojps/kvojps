@@ -1,7 +1,7 @@
 # Olá pessoal 👋
 
 - 🔭 Atualmente finalizei o primeiro período de Engenharia de Software na universidade de Pernambuco.
-- 🌱 Estou aprendendo mais sobre Javascript .
+- 🌱 Estou aprendendo mais sobre Python, banco de dados e Django.
 - 👯 Eu sou o criador da página [Divers_tech](https://www.instagram.com/divers_tech/).
 - 🤔 Estou em busca da primeira oportunidade de emprego.
 - 💬 Sempre busco aprender mais para conseguir mudar o mundo através do código.
